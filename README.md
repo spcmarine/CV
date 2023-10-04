@@ -11,8 +11,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**London Borough of Croydon** (October 2018 - July 2023)
+**London Borough of Croydon** 
+(October 2018 - July 2023)
 _Social Work Team Manager – Social Workers in Schools (SWiS) Team_ 
+
 Led teams of social workers in Children’s Social Care, providing significant experience in leadership and management at operational and strategic levels.
 Managed high-pressure, time-sensitive environments, effectively handling risk and confidential/sensitive material.
 Oversaw the implementation of a Department for Education pilot, one of the largest randomised controlled trials in the sector, honing project management skills and collaborating with Local and Central Government departments. 
@@ -20,14 +22,18 @@ Showed innovation in developing new processes and use of technology within the t
 Influential in the Local Authority’s practice improvement journey, modelling best practices and emphasising continuous professional development.
 Demonstrated effective communication skills in conducting challenging yet sensitive conversations in various settings.
 
-**Surrey County Council** (November 2012 – October 2018)
+**Surrey County Council** 
+(November 2012 – October 2018)
 _Social Work Team Manager_
+
 Reviewed and audited social worker’s reports, emphasising attention to detail and accuracy.
 Delivered training and workshops to individuals from diverse professional backgrounds, gaining confidence in presentations, group work, and public speaking.
 Was able to communicate often complicated and complex information to a diverse audience in a way that was informative, while remaining sensitive. 
 
-**Surrey County Council** (September 2009 – November 2012)
+**Surrey County Council** 
+(September 2009 – November 2012)
 _Children’s Social Worker_
+
 Utilised strong communication skills to interact effectively with clients, colleagues, and other professionals through written documentation and reports.
 Identified and assessed complex problems, developing practical solutions in collaboration with clients and stakeholders.
 Demonstrated emotional resilience and prioritisation in a high-stress environment.
