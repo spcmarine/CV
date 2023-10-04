@@ -1,6 +1,6 @@
 ## Dan Gibson
 
-Having started my career in social work management, I built critical skills in leadership, problem solving, communication and risk management. Since then, my motivations have pivoted to tech where I can apply these skills and also fulfil my passion for software. I have always been interested about how things work and the scope for innovation in software development. Technology is central to all of our lives and I have been keen apply my skills and knowledge in a new sector. 
+Having started my career in social work management, I built critical skills in leadership, problem solving, communication and risk management. Since then, my motivations have pivoted to tech where I can apply these skills and also fulfil my passion for software. I have always been interested about how things work and the scope for innovation in software development. Technology is central to each of our lives, and I have been keen to apply my skills and knowledge in a new sector. 
 
 I am eager to leverage my transferable skills in communication, empathy, and project management to build innovative software products that positively impact lives. 
 
