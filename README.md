@@ -11,7 +11,7 @@ I am eager to leverage my transferable skills in communication, empathy, and pro
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse) | A social media web app, built over 10 days | JavaScript, React, Jest, Cypress, MongoDB, Mongoose, Express, HTML, CSS              |
 
 ## Work Experience
 
@@ -53,7 +53,7 @@ Furthermore, my time at Makers bootcamp emphasised the importance of precise and
 
 I find great satisfaction in fostering an open and inclusive environment where ideas and concerns are freely exchanged. Whether it's a team meeting, a client consultation, or a collaborative coding session, I strive to ensure that everyone feels heard and understood.
 
-### Team Work
+#### Team Work
 Throughout my career, I've consistently demonstrated strong teamwork and leadership capabilities. As a Social Work Team Manager, I led diverse teams of social workers, operating at both operational and strategic levels. This experience instilled in me the importance of effective collaboration and communication in achieving common goals. I played a pivotal role in overseeing complex projects and worked closely with local and central government departments, showcasing my ability to coordinate efforts and build productive relationships across various stakeholders. During my time at Makers there has been a strong emphasis on pair programming and group projects. My experiences of team work has really aided my transition into tech, particualrly when it has come to quicly integrating into a team and establishing shared goals and understanding. 
 
 #### Problem Solving
