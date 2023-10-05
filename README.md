@@ -1,6 +1,6 @@
 ## Dan Gibson
 
-Having started my career in social work management, I built critical skills in leadership, problem solving, communication and risk management. Since then, my motivations have pivoted to tech where I can apply these skills and also fulfil my passion for software. I have always been interested about how things work and the scope for innovation in software development. Technology is central to each of our lives, and I have been keen to apply my skills and knowledge in a new sector. 
+I am an aspiring software Having started my career in social work management, I built critical skills in leadership, problem solving, communication and risk management. Since then, my motivations have pivoted to tech where I can apply these skills and also fulfil my passion for software. I have always been interested about how things work and the scope for innovation in software development. Technology is central to each of our lives, and I have been keen to apply my skills and knowledge in a new sector. 
 
 I am eager to leverage my transferable skills in communication, empathy, and project management to build innovative software products that positively impact lives. 
 
@@ -46,24 +46,27 @@ _Children’s Social Worker_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+Effective communication has been central to my journey to date. As a social worker and manager, I regularly interacted with diverse teams, clients, and stakeholders, requiring me to convey complex information in a clear and empathetic manner. This experience honed my ability to adapt my communication style to suit different audiences and situations. 
 
-#### Another skill
+Furthermore, my time at Makers bootcamp emphasised the importance of precise and concise communication within a technical context. Collaborative coding projects demanded effective team communication to ensure seamless integration of individual contributions.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I find great satisfaction in fostering an open and inclusive environment where ideas and concerns are freely exchanged. Whether it's a team meeting, a client consultation, or a collaborative coding session, I strive to ensure that everyone feels heard and understood.
 
-#### Another skill
+### Team Work
+Throughout my career, I've consistently demonstrated strong teamwork and leadership capabilities. As a Social Work Team Manager, I led diverse teams of social workers, operating at both operational and strategic levels. This experience instilled in me the importance of effective collaboration and communication in achieving common goals. I played a pivotal role in overseeing complex projects and worked closely with local and central government departments, showcasing my ability to coordinate efforts and build productive relationships across various stakeholders. During my time at Makers there has been a strong emphasis on pair programming and group projects. My experiences of team work has really aided my transition into tech, particualrly when it has come to quicly integrating into a team and establishing shared goals and understanding. 
+
+#### Problem Solving
+
+In my roles within social work, I encountered multifaceted challenges on a daily basis. These situations required not only immediate attention but also careful consideration of the underlying issues and potential long-term solutions. Situations would often be both complicated and complex, with a high level of risk assocaited with them. Problem solving became an inherent part of my daily practice, thinking critically, analysing situations and considering them from multiple perspectives. 
+
+Transitioning into the tech industry, I've carried this problem-solving mindset with me, applying it to coding challenges and projects. The structured problem-solving approach I developed in social work has translated into the world of software development, enabling me to approach coding tasks with a systematic and analytical mindset.
+
+#### Orgnaisational skills
+
+My previous career required a high degree of organisation and meticulous attention to detail. Managing high caseloads, coordinating resources, and ensuring compliance with policy and law. Additionally, I led on developing and implementing streamlined processes, enhancing team productivity and optimising service delivery. I have experience in writing reports for court, giving evidence and instructing legal teams, each of which require a high level of organisation. 
+
+I understand the importance of well-organized and readable code. My experience through completing Makers projects has given me an appreciation of version control and the importance of creating robust and scalable software solutions.
 
 
 ## Education
