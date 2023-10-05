@@ -83,7 +83,7 @@ I understand the importance of well-organized and readable code. My experience t
 - Gained experience of api requests.
 - Independent learning and problem-solving throughout
 
-#### Kingston University (2006 - 2009)
+#### Kingston University, London (2006 - 2009)
 
 - BA (Hons) Social Work
 
