@@ -24,7 +24,7 @@ _ Managed high-pressure, time-sensitive environments, effectively handling risk 
 - Oversaw the implementation of a Department for Education pilot, one of the largest randomised controlled trials in the sector, honing project management skills and collaborating with Local and Central Government departments. 
 - Showed innovation in developing new processes and use of technology within the team. 
 - Influential in the Local Authority’s practice improvement journey, modelling best practices and emphasising continuous professional development.
-_ Demonstrated effective communication skills in conducting challenging yet sensitive conversations in various settings.
+- Demonstrated effective communication skills in conducting challenging yet sensitive conversations in various settings.
 
 **Surrey County Council** 
 (November 2012 – October 2018)
