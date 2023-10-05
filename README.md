@@ -12,7 +12,7 @@ I am eager to leverage my transferable skills in communication, empathy, and pro
 | ---------------------------- | ----------------- | ----------------- |
 | [**Acebook**](https://github.com/spcmarine/Acebook-Web-App) | A social media web app, which was built over 10 days as part of a group project | JavaScript, React, Jest, Cypress, MongoDB, Mongoose, Express, HTML, CSS              |
 | [**MakersBnB**](https://github.com/spcmarine/MakersBnB) | An AirBnB style web app, which was built over 4 days as part of a group project during week 8 of my bootcamp  | Python, Flask and Postgres, HTML, CSS              |
-| [**Pokedex**](https://github.com/spcmarine/Pokedex) | A small JavaScript web app which i built in an evening to practice sending api requests. | JavaScript, HTML, CSS |
+| [**Pokedex**](https://github.com/spcmarine/Pokedex) | A small JavaScript web app which I built in an evening to practice sending api requests. | JavaScript, HTML, CSS |
 
 ## Work Experience
 
