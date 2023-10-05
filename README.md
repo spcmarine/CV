@@ -11,7 +11,7 @@ I am eager to leverage my transferable skills in communication, empathy, and pro
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse) | A social media web app, built over 10 days | JavaScript, React, Jest, Cypress, MongoDB, Mongoose, Express, HTML, CSS              |
+| [**Acebook**](https://github.com/spcmarine/Acebook-Web-App) | A social media web app, built over 10 days | JavaScript, React, Jest, Cypress, MongoDB, Mongoose, Express, HTML, CSS              |
 
 ## Work Experience
 
