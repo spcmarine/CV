@@ -83,10 +83,6 @@ I honed my communication skills while completing my thesis at university, which 
 
 - BA (Hons) Social Work
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
 I have a love of the outdoors and where possible I like to spend time in the mountains either riding my mountain bike or snowboard. 
